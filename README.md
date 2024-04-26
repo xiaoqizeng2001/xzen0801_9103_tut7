@@ -23,7 +23,7 @@ This is my first local change to the repo!
 2. Second Item
 3. Third Item
 
-[Link Text](https://www.google.com）
+[Link Text]（https://www.google.com）
 
 
-![An image of a cat](http://placekitten.com/200/300）
+![An image of a cat]（http://placekitten.com/200/300）
